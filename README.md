@@ -30,6 +30,7 @@ FAROUT Murals
 
 ### July
 
+<<<<<<< HEAD
 ---
 
 ### Steps to join Github
@@ -65,5 +66,7 @@ Windows powershell - interacts with different coding types, universal
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tAfqnNa4DRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+=======
+>>>>>>> parent of 589ad90 (Updated everytihng)
 Assets Gathering
 
