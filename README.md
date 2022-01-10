@@ -1,7 +1,10 @@
 # Decentraland Testing Markup
 
+[![](https://i.imgur.com/wcfRTXz.png)](https://google.com)
+
 # Project Overview
 ---
+
 
 
 
@@ -27,6 +30,7 @@ FAROUT Murals
 
 ### July
 
+---
 
 ### Steps to join Github
 We can utilize github to all work on the same files at once, without overlapping each others work.
@@ -54,7 +58,12 @@ https://git-scm.com/download/win
 MPM - packaging manager - uses node.js to download
 Windows powershell - interacts with different coding types, universal
 	Create directory > folder in Users > 
-	
+
+---
+
+### Decentraland Tutorials
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tAfqnNa4DRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Assets Gathering
 
