@@ -28,6 +28,7 @@ Then we can invite you as a collabroator on a project.
 * **npm** - https://docs.npmjs.com/getting-started packaging manager that comes with node.js. By using commands in the Windows powershell, **npm** downloads the decentraland SDK through a command promt. Uses node.js to download other packages, specifically the DCL installation, and the entity component module package.
 * **Windows powershell** - Windows terminal that is used to interact with the DCL SDK
 * **Notepad++** - Another Code Editor
+* Export GLTF from Unity https://github.com/sketchfab/Unity-glTF-Exporter
 
 ---
 
@@ -59,7 +60,6 @@ How to change your default directory in command prompt https://techsupportwhale.
 
 Playlist of DCL Tutorials https://www.youtube.com/playlist?list=PLAcRraQmr_GPi-8qgv17ewdGl50OHuOhH
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tAfqnNa4DRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### More Links
 Virtual Worlds https://linktr.ee/irlvirtual
