@@ -77,7 +77,9 @@ Decentraland Security Tips https://medium.com/decentraland/security-at-decentral
 
 ### Digital Assets (Sportscastle Logos / Scans, BrandKits, DCL Models)
 DCL Press kit https://drive.google.com/drive/folders/1m1pdef7Z1Ms7ueH86J2Ccp9df-u-4uaE
-
+MetaFactory Graphics https://drive.google.com/drive/folders/16mQsy-7kcYAFeaEloF6tmuzuaSefJaus?usp=sharing  
+Official ETH Denver Blueprint https://drive.google.com/file/d/1BeCMq8dkIpZPSR0k4ehcxCDy-wX_uikR/view?usp=sharing
+DCL Sports Castle Blueprint https://drive.google.com/file/d/1-KXYqOzyvuLWTb8CIHiNgmTUDtgwkMXC/view?usp=sharing
 ### Gotchas
 ![](https://i.imgur.com/pwRnEjq.png)
 
